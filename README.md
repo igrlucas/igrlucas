@@ -14,6 +14,8 @@ I'm a developer with solid professional experience in **Front-end** who decided 
 
 - 💻 **Desktop Solutions:** Creating high-performance desktop tools with **Electron.js**.
 
+- - **creating a CSS framework - CSS3** utilities first, furniture first.
+
 ---
 
 ### 💻 Technology Stack
