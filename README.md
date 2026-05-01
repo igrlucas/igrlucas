@@ -9,7 +9,7 @@ Sou um desenvolvedor com experiência profissional consolidada em **Front-end** 
 ### 🛠️ No que estou trabalhando agora
 
 - 🏦 **Solidflow:** Liderando o desenvolvimento de um ecossistema completo para gestão de fluxo de caixa, utilizando **PHP 8+, Laravel e Tailwind CSS**.
-- 🚌 **Smart City IoT:** Desenvolvendo um sistema de monitoramento de transporte público em tempo real para a região de Birigui/SP, utilizando **ESP32**, GPS e integração via API.
+- 🚌 **Smart City IoT:** Desenvolvendo um sistema de monitoramento de transporte público em tempo real para a região, utilizando **ESP32**, GPS e integração via API.
 - 💻 **Desktop Solutions:** Criando ferramentas de alta performance para desktop com **Electron.js**.
 
 ---
