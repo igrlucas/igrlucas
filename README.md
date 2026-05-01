@@ -26,9 +26,7 @@ I'm a developer with solid professional experience in **Front-end** who decided 
 
 - **Control and Automation Engineering (Mechatronics)** - Federal Institute of São Paulo (IFSP).
 
-- **Fundamentals of Information Security and Penetration Testing, completed** - SENAI (Focus on diagnostics and technical maintenance).
-
-- **Applied Physics and Mathematics:** Strong foundation in Vector Calculus, Kinematics, and Analytical Geometry applied to engineering.
+- **Fundamentals of Information Security and Penetration Testing, completed** - solyd offensive security.
 
 ---
 
