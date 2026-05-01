@@ -20,7 +20,7 @@ I'm a developer with solid professional experience in **Front-end** who decided 
 
 ### 💻 Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,tailwind,electron,cpp,arduino,mysql,git,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,tailwind,electron,c,arduino,mysql,git,vscode,figma,linux)](https://skillicons.dev)
 
 ---
 
