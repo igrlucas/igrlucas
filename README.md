@@ -1,48 +1,47 @@
-# Olá, eu sou Igor Lucas! 👋
+# Hi, I'm Igor Lucas! 👋
 
-### 🚀 Desenvolvedor Full-Stack & Estudante de Engenharia de Controle e Automação (Mecatrônica)
+### 🚀 Full-Stack Developer & Control and Automation Engineering (Mechatronics) Student
 
-Sou um desenvolvedor com experiência profissional consolidada em **Front-end** que decidiu expandir os horizontes para o mundo do hardware e da automação. Atualmente, curso Engenharia de Controle e Automação no **IFSP**, unindo o desenvolvimento de software robusto com a precisão da engenharia.
-
----
-
-### 🛠️ No que estou trabalhando agora
-
-- 🏦 **Solidflow:** Liderando o desenvolvimento de um ecossistema completo para gestão de fluxo de caixa, utilizando **PHP 8+, Laravel e Tailwind CSS**.
-- 🚌 **Smart City IoT:** Desenvolvendo um sistema de monitoramento de transporte público em tempo real para a região, utilizando **ESP32**, GPS e integração via API.
-- 💻 **Desktop Solutions:** Criando ferramentas de alta performance para desktop com **Electron.js**.
+I'm a developer with solid professional experience in **Front-end** who decided to expand my horizons to the world of hardware and automation. Currently, I'm studying Control and Automation Engineering at **IFSP**, combining robust software development with engineering precision.
 
 ---
 
-### 💻 Stack Tecnológica
+### 🛠️ What I'm working on now
 
-| Categoria                | Tecnologias                                         |  |
-| :----------------------- | :-------------------------------------------------- | - |
-| **Linguagens**     | PHP, JavaScript (ES6+), C++ (Arduino/Embedded), SQL |  |
-| **Frameworks**     | Laravel, Electron.js                                |  |
-| **Front-end**      | Tailwind CSS, HTML5, CSS3, Blade                    |  |
-| **Engenharia/IoT** | ESP32, Sensores, Automação                        |  |
-| **Ferramentas**    | Git, Composer, NPM                                 |  |
+- 🏦 **Solidflow:** Leading the development of a complete ecosystem for cash flow management, using **PHP 8+, Laravel and Tailwind CSS**.
+
+- 🚌 **Smart City IoT:** Developing a real-time public transport monitoring system for the Birigui/SP region, using **ESP32**, GPS and API integration.
+
+- 💻 **Desktop Solutions:** Creating high-performance desktop tools with **Electron.js**.
 
 ---
 
-### 🎓 Educação & Formação
+### 💻 Technology Stack
 
-- **Engenharia de Controle e Automação (Mecatrônica)** - Instituto Federal de São Paulo (IFSP).
-- **Mecânico de Motores Ciclo Otto** - SENAI (Foco em diagnóstico e manutenção técnica).
-- **Física e Matemática Aplicada:** Forte base em Cálculo Vetorial, Cinemática e Geometria Analítica aplicada à engenharia.
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,tailwind,electron,cpp,arduino,mysql,git)](https://skillicons.dev)
 
 ---
 
+### 🎓 Education & Training
 
+- **Control and Automation Engineering (Mechatronics)** - Federal Institute of São Paulo (IFSP).
 
-### 📊 Estatísticas do GitHub
+- **Fundamentals of Information Security and Penetration Testing, completed** - SENAI (Focus on diagnostics and technical maintenance).
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+- **Applied Physics and Mathematics:** Strong foundation in Vector Calculus, Kinematics, and Analytical Geometry applied to engineering.
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=igrlucas&theme=dracula" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 📫 Let's connect?
 
 - 📍 Araçatuba / Birigui - SP
