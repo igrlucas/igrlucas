@@ -1,4 +1,4 @@
-Olá, eu sou Igor Lucas! 👋
+#Olá, eu sou Igor Lucas! 👋
 
 ### 🚀 Desenvolvedor Full-Stack e Estudante de Engenharia de Controle e Automação (Mecatrônica)
 
