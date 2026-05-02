@@ -1,38 +1,38 @@
-# Hi, I'm Igor Lucas! 👋
+Olá, eu sou Igor Lucas! 👋
 
-### 🚀 Full-Stack Developer & Control and Automation Engineering (Mechatronics) Student
+### 🚀 Desenvolvedor Full-Stack e Estudante de Engenharia de Controle e Automação (Mecatrônica)
 
-I'm a developer with solid professional experience in **Front-end** who decided to expand my horizons to the world of hardware and automation. Currently, I'm studying Control and Automation Engineering at **IFSP**, combining robust software development with engineering precision.
-
----
-
-### 🛠️ What I'm working on now
-
-- 🏦 **Solidflow:** Leading the development of a complete ecosystem for cash flow management, using **PHP 8+, Laravel and Tailwind CSS**.
-
-- 🚌 **Smart City IoT:** Developing a real-time public transport monitoring system for the Birigui/SP region, using **ESP32**, GPS and API integration.
-
-- 💻 **Desktop Solutions:** Creating high-performance desktop tools with **Electron.js**.
-
-- **Creating a CSS Framework - CSS3** utilities first, furniture first.
+Sou um desenvolvedor com sólida experiência profissional em **Front-end** que decidiu expandir meus horizontes para o mundo do hardware e da automação. Atualmente, estudo Engenharia de Controle e Automação no **IFSP**, combinando desenvolvimento de software robusto com precisão em engenharia.
 
 ---
 
-### 💻 Technology Stack
+### 🛠️ Em que estou trabalhando agora
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,tailwind,electron,c,arduino,mysql,git,vscode,figma,linux)](https://skillicons.dev)
+- 🏦 **Solidflow:** Liderando o desenvolvimento de um ecossistema completo para gestão de fluxo de caixa, utilizando **PHP 8+, Laravel e Tailwind CSS**.
 
----
+- 🚌 **IoT para Cidades Inteligentes:** Desenvolvendo um sistema de monitoramento de transporte público em tempo real para a região de Birigui/SP, utilizando **ESP32**, GPS e integração de API.
 
-### 🎓 Education & Training
+- 💻 **Soluções para Desktop:** Criando ferramentas de desktop de alto desempenho com **Electron.js**.
 
-- **Control and Automation Engineering (Mechatronics)** - Federal Institute of São Paulo (IFSP).
-
-- **Fundamentals of Information Security and Penetration Testing, completed** - solyd offensive security.
+- **Criando um Framework CSS - CSS3** utilitários primeiro, móveis primeiro.
 
 ---
 
-### 📊 GitHub Statistics
+### 💻 Tecnologias Utilizadas
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=php,laravel,js,tailwind,electron,c,arduino,mysql,git,vscode,figma,linux)](https://skillicons.dev)
+
+---
+
+### 🎓 Formação Acadêmica
+
+- **Engenharia de Controle e Automação (Mecatrônica)** - Instituto Federal de São Paulo (IFSP).
+
+- **Fundamentos de Segurança da Informação e Teste de Penetração, concluído** - solid offensive security.
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -42,6 +42,6 @@ I'm a developer with solid professional experience in **Front-end** who decided 
 
 ---
 
-### 📫 Let's connect?
+### 📫 Vamos nos conectar?
 
 - 📍 Araçatuba / Birigui - SP
