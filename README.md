@@ -20,7 +20,7 @@ Sou um desenvolvedor com sólida experiência profissional em **Front-end** que 
 
 ### 💻 Tecnologias Utilizadas
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=php,laravel,js,tailwind,electron,c,arduino,mysql,git,vscode,figma,linux)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=php,laravel,js,tailwind,electron,vue,c,arduino,mysql,git,vscode,figma,linux)](https://skillicons.dev)
 
 ---
 
